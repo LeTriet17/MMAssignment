@@ -138,5 +138,23 @@ public:
             cout << (*it)->getTokens() << ", ";
       }
    }
+   bool isEnabled()
+   {
+      for (list<Transition *>::iterator it = transitions.begin(); it != transitions.end(); it++)
+         if ((*it)->isEnabled())
+            return true;
+      return false;
+   }
+   void run()
+   {  
+      cout<<"With the given marking: \n";
+      marking();
+      cout<<"Result:\n";
+      while (isEnabled())
+      {
+         firing();
+         marking();
+      }
+   }
 };
 #endif
