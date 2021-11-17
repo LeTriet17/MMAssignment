@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.23 (TeX Live 2021/W32TeX) (preloaded format=pdflatex 2021.10.13)  11 NOV 2021 20:29
+This is pdfTeX, Version 3.141592653-2.6-1.40.23 (TeX Live 2021/W32TeX) (preloaded format=pdflatex 2021.10.13)  13 NOV 2021 07:57
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -967,29 +967,43 @@ File: hcmut.png Graphic file (type png)
 <use hcmut.png>
 Package pdftex.def Info: hcmut.png  used on input line 559.
 (pdftex.def)             Requested size: 22.76204pt x 22.75928pt.
- [9 <./QUES4.png>] 
+ [9 <./QUES4.png>]
+Overfull \hbox (70.33093pt too wide) in paragraph at lines 609--610
+ [][] 
+ []
+
+File: hcmut.png Graphic file (type png)
+<use hcmut.png>
+Package pdftex.def Info: hcmut.png  used on input line 617.
+(pdftex.def)             Requested size: 22.76204pt x 22.75928pt.
+[10]
+File: hcmut.png Graphic file (type png)
+<use hcmut.png>
+Package pdftex.def Info: hcmut.png  used on input line 623.
+(pdftex.def)             Requested size: 22.76204pt x 22.75928pt.
+ [11] 
 AED: lastpage setting LastPage
 File: hcmut.png Graphic file (type png)
 <use hcmut.png>
-Package pdftex.def Info: hcmut.png  used on input line 578.
+Package pdftex.def Info: hcmut.png  used on input line 636.
 (pdftex.def)             Requested size: 22.76204pt x 22.75928pt.
-[10] (./template.aux)
+[12] (./template.aux)
 Package rerunfilecheck Info: File `template.out' has not changed.
 (rerunfilecheck)             Checksum: 5FDFEC376CE905096D3BE90C23C52D54;1247.
  ) 
 Here is how much of TeX's memory you used:
- 26263 strings out of 478599
- 490687 string characters out of 5858100
- 825506 words of memory out of 5000000
- 43630 multiletter control sequences out of 15000+600000
+ 26309 strings out of 478599
+ 491457 string characters out of 5858100
+ 825565 words of memory out of 5000000
+ 43673 multiletter control sequences out of 15000+600000
  408216 words of font info for 48 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  84i,25n,89p,512b,1256s stack positions out of 5000i,500n,10000p,200000b,80000s
 <c:/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb><c:/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb><c:/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb><c:/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb><c:/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi7.pfb><c:/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb><c:/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmr7.pfb><c:/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb><c:/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy7.pfb><c:/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt10.pfb><c:/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt8.pfb>
-Output written on template.pdf (11 pages, 192650 bytes).
+Output written on template.pdf (13 pages, 197215 bytes).
 PDF statistics:
- 219 PDF objects out of 1000 (max. 8388607)
- 174 compressed objects within 2 object streams
- 43 named destinations out of 1000 (max. 500000)
+ 234 PDF objects out of 1000 (max. 8388607)
+ 187 compressed objects within 2 object streams
+ 46 named destinations out of 1000 (max. 500000)
  113 words of extra memory for PDF output out of 10000 (max. 10000000)
 
