@@ -130,8 +130,6 @@
 			\hspace{5 cm} & Advisor:  & Ph.D Nguyen Tien Thinh         \\
 			              & Students: & Le Thong Minh Triet - 2053521. \\
 			              &           & Luc Gia Hung - 2053071.        \\
-			              &           & Dang Thanh Huy - 2053032.      \\
-			              &           & Nguyen Thanh Danh - 2052417.   \\
 		\end{tabular}
 	\end{table}
 
@@ -163,16 +161,6 @@
 		\hline
 		%%%%%Student 2%%%%%%%%%%%
 		\multirow{3}{*}{2} & \multirow{3}{*}{Luc Gia Hung}        & \multirow{3}{*}{2053071} & - Relation \& Counting: 4, 5, 6   & \multirow{3}{*}{20\%}       \\
-		                   &                                      &                          & Bonus: 4, 5, 6.                   &                             \\
-		                   &                                      &                          & - Graph: 1, 2, 3, Bonus: 1, 2, 3. &                             \\
-		\hline
-		%%%%%Student 3%%%%%%%%%%%
-		\multirow{3}{*}{3} & \multirow{3}{*}{Dang Thanh Huy}      & \multirow{3}{*}{2053032} & - Relation \& Counting: 4, 5, 6   & \multirow{3}{*}{20\%}       \\
-		                   &                                      &                          & Bonus: 4, 5, 6.                   &                             \\
-		                   &                                      &                          & - Graph: 1, 2, 3, Bonus: 1, 2, 3. &                             \\
-		\hline
-		%%%%%Student 3%%%%%%%%%%%
-		\multirow{3}{*}{4} & \multirow{3}{*}{Nguyen Thanh Danh}   & \multirow{3}{*}{2052417} & - Relation \& Counting: 4, 5, 6   & \multirow{3}{*}{20\%}       \\
 		                   &                                      &                          & Bonus: 4, 5, 6.                   &                             \\
 		                   &                                      &                          & - Graph: 1, 2, 3, Bonus: 1, 2, 3. &                             \\
 		\hline
@@ -355,7 +343,8 @@ model, formally, we use Petri Net.\par
 \subsection{Problem 2}
 \begin{enumerate}[label=(\alph*)]
 	\item Number of tokens in state $N_{Pa}$ shows quantity of patients are treating by the specialist.
-	\item Petri net $N_{Pa}$ are represented by the following graph:
+	\item Petri net $N_{Pa}$ which contains five patients in state wait, no
+	patient in state inside, and one patient is in state done are represented by the following graph:
 \end{enumerate}
 \begin{figure}[H]
 	\centering
@@ -555,7 +544,7 @@ model, formally, we use Petri Net.\par
 	\caption{Marking of the Petri net when firing once}
 	\label{fig:q4}
 \end{figure}
-From the Fig.~\ref{fig:q4}, we can see marking Change and Inside are reachable when firing a transition once.
+From the Fig.~\ref{fig:q4}, we can see all places are reachable because there is always a sequence of steps to each place.
 \subsection{Problem 5}
 The superimposed Petri net N is not deadlock free because state Done is not the state of at least one node. Therefore, there is not a node is enabled in state Done
 \subsection{Problem 6}
@@ -611,9 +600,8 @@ The superimposed Petri net N is not deadlock free because state Done is not the 
 	\label{fig:cpn}
 \end{figure}
 ASSUMPTION:\par
-Two spe	cialists are distinguished and working in the same process.\par
-There are three places in Fig.~\ref{fig:cpn}: Next Car ID, Waiting,
-and Done. A transition represents an action of this business process. Graphically, a rectangle
+Two specialists are distinguished and working in the same process.\par
+There are three places in Fig.~\ref{fig:cpn}: Free, Busy and Docu. A transition represents an action of this business process. Graphically, a rectangle
 represents a transition. The CPN in Fig..~\ref{fig:cpn} has four transitions: S1, S2, Change and End.\par
 In Fig.~\ref{fig:cpn}, place FREE is of type INT and two remaining places are of type SPEC (union of two type S1 and S2). Type S1 and S2 indicate that the Specialist
 is $Specialist_1(S_1)$ or the $Specialist_2(S_2)$

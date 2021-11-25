@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.23 (TeX Live 2021/W32TeX) (preloaded format=pdflatex 2021.10.13)  13 NOV 2021 07:57
+This is pdfTeX, Version 3.141592653-2.6-1.40.23 (TeX Live 2021/W32TeX) (preloaded format=pdflatex 2021.10.13)  24 NOV 2021 15:41
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -838,154 +838,154 @@ File: ulasy.fd 1998/08/17 v2.2e LaTeX symbol font definitions
 
 File: hcmut.png Graphic file (type png)
 <use hcmut.png>
-Package pdftex.def Info: hcmut.png  used on input line 148.
+Package pdftex.def Info: hcmut.png  used on input line 146.
 (pdftex.def)             Requested size: 22.76204pt x 22.75928pt.
 LaTeX Font Info:    Font shape `OT1/cmtt/bx/n' in size <10> not available
-(Font)              Font shape `OT1/cmtt/m/n' tried instead on input line 148.
+(Font)              Font shape `OT1/cmtt/m/n' tried instead on input line 146.
 pdfTeX warning (ext4): destination with the same identifier (name{page.1}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.148 \newpage
+l.146 \newpage
                [1]
-Overfull \hbox (47.79172pt too wide) in paragraph at lines 155--180
+Overfull \hbox (47.79172pt too wide) in paragraph at lines 153--168
  [] 
  []
 
 File: hcmut.png Graphic file (type png)
 <use hcmut.png>
-Package pdftex.def Info: hcmut.png  used on input line 181.
+Package pdftex.def Info: hcmut.png  used on input line 169.
 (pdftex.def)             Requested size: 22.76204pt x 22.75928pt.
 [2]
-Overfull \hbox (4.3251pt too wide) in paragraph at lines 256--256
+Overfull \hbox (4.3251pt too wide) in paragraph at lines 244--244
 [][]\OT1/cmr/m/n/10 Change  
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 247--261
+Underfull \hbox (badness 10000) in paragraph at lines 235--249
 
  []
 
 
-Overfull \hbox (4.3251pt too wide) in paragraph at lines 274--274
+Overfull \hbox (4.3251pt too wide) in paragraph at lines 262--262
 [][]\OT1/cmr/m/n/10 Change  
  []
 
 
-Overfull \hbox (4.3251pt too wide) in paragraph at lines 275--275
+Overfull \hbox (4.3251pt too wide) in paragraph at lines 263--263
 [][]\OT1/cmr/m/n/10 Change  
  []
 
 
-Overfull \hbox (4.3251pt too wide) in paragraph at lines 278--278
+Overfull \hbox (4.3251pt too wide) in paragraph at lines 266--266
 [][]\OT1/cmr/m/n/10 Change  
  []
 
 File: hcmut.png Graphic file (type png)
 <use hcmut.png>
-Package pdftex.def Info: hcmut.png  used on input line 285.
+Package pdftex.def Info: hcmut.png  used on input line 273.
 (pdftex.def)             Requested size: 22.76204pt x 22.75928pt.
 [3]
-Overfull \hbox (4.3251pt too wide) in paragraph at lines 302--302
+Overfull \hbox (4.3251pt too wide) in paragraph at lines 290--290
 [][]\OT1/cmr/m/n/10 Change  
  []
 
 
-Overfull \hbox (4.3251pt too wide) in paragraph at lines 304--304
+Overfull \hbox (4.3251pt too wide) in paragraph at lines 292--292
 [][]\OT1/cmr/m/n/10 Change  
  []
 
 
-Overfull \hbox (4.3251pt too wide) in paragraph at lines 312--312
+Overfull \hbox (4.3251pt too wide) in paragraph at lines 300--300
 [][]\OT1/cmr/m/n/10 Change  
  []
 
 
-Overfull \hbox (17.91672pt too wide) in paragraph at lines 315--315
+Overfull \hbox (17.91672pt too wide) in paragraph at lines 303--303
 [][]\OT1/cmr/m/n/10 End  
  []
 
 
-Overfull \hbox (22.25006pt too wide) in paragraph at lines 316--316
+Overfull \hbox (22.25006pt too wide) in paragraph at lines 304--304
 [][]\OT1/cmr/m/n/10 Start  
  []
 
 
-Overfull \hbox (10.01556pt too wide) in paragraph at lines 317--317
+Overfull \hbox (10.01556pt too wide) in paragraph at lines 305--305
 [][]\OT1/cmr/m/n/10 Change  
  []
 
 
-Overfull \hbox (32.93973pt too wide) in paragraph at lines 318--319
+Overfull \hbox (32.93973pt too wide) in paragraph at lines 306--307
  [][] 
  []
 
 File: hcmut.png Graphic file (type png)
 <use hcmut.png>
-Package pdftex.def Info: hcmut.png  used on input line 322.
+Package pdftex.def Info: hcmut.png  used on input line 310.
 (pdftex.def)             Requested size: 22.76204pt x 22.75928pt.
 [4]
-Underfull \hbox (badness 10000) in paragraph at lines 322--323
+Underfull \hbox (badness 10000) in paragraph at lines 310--311
 
  []
 
 File: hcmut.png Graphic file (type png)
 <use hcmut.png>
-Package pdftex.def Info: hcmut.png  used on input line 336.
+Package pdftex.def Info: hcmut.png  used on input line 324.
 (pdftex.def)             Requested size: 22.76204pt x 22.75928pt.
 [5]
 <QUES2.png, id=113, 405.01312pt x 361.35pt>
 File: QUES2.png Graphic file (type png)
 <use QUES2.png>
-Package pdftex.def Info: QUES2.png  used on input line 400.
+Package pdftex.def Info: QUES2.png  used on input line 389.
 (pdftex.def)             Requested size: 418.25368pt x 373.1706pt.
 File: hcmut.png Graphic file (type png)
 <use hcmut.png>
-Package pdftex.def Info: hcmut.png  used on input line 404.
+Package pdftex.def Info: hcmut.png  used on input line 393.
 (pdftex.def)             Requested size: 22.76204pt x 22.75928pt.
  [6]
 <QUES3.png, id=125, 645.91313pt x 435.12563pt>
 File: QUES3.png Graphic file (type png)
 <use QUES3.png>
-Package pdftex.def Info: QUES3.png  used on input line 477.
+Package pdftex.def Info: QUES3.png  used on input line 466.
 (pdftex.def)             Requested size: 418.25368pt x 281.75934pt.
 File: hcmut.png Graphic file (type png)
 <use hcmut.png>
-Package pdftex.def Info: hcmut.png  used on input line 480.
+Package pdftex.def Info: hcmut.png  used on input line 469.
 (pdftex.def)             Requested size: 22.76204pt x 22.75928pt.
  [7 <./QUES2.png>]
-<QUES4.png, id=133, 405.01312pt x 361.35pt>
+<QUES4.png, id=133, 645.91313pt x 435.12563pt>
 File: QUES4.png Graphic file (type png)
 <use QUES4.png>
-Package pdftex.def Info: QUES4.png  used on input line 554.
-(pdftex.def)             Requested size: 341.43306pt x 304.62917pt.
+Package pdftex.def Info: QUES4.png  used on input line 543.
+(pdftex.def)             Requested size: 341.43306pt x 230.01129pt.
 File: hcmut.png Graphic file (type png)
 <use hcmut.png>
-Package pdftex.def Info: hcmut.png  used on input line 557.
+Package pdftex.def Info: hcmut.png  used on input line 546.
 (pdftex.def)             Requested size: 22.76204pt x 22.75928pt.
  [8 <./QUES3.png>]
 File: hcmut.png Graphic file (type png)
 <use hcmut.png>
-Package pdftex.def Info: hcmut.png  used on input line 559.
+Package pdftex.def Info: hcmut.png  used on input line 550.
 (pdftex.def)             Requested size: 22.76204pt x 22.75928pt.
  [9 <./QUES4.png>]
-Overfull \hbox (70.33093pt too wide) in paragraph at lines 609--610
+Overfull \hbox (70.33093pt too wide) in paragraph at lines 598--599
  [][] 
  []
 
 File: hcmut.png Graphic file (type png)
 <use hcmut.png>
-Package pdftex.def Info: hcmut.png  used on input line 617.
+Package pdftex.def Info: hcmut.png  used on input line 608.
 (pdftex.def)             Requested size: 22.76204pt x 22.75928pt.
 [10]
 File: hcmut.png Graphic file (type png)
 <use hcmut.png>
-Package pdftex.def Info: hcmut.png  used on input line 623.
+Package pdftex.def Info: hcmut.png  used on input line 611.
 (pdftex.def)             Requested size: 22.76204pt x 22.75928pt.
  [11] 
 AED: lastpage setting LastPage
 File: hcmut.png Graphic file (type png)
 <use hcmut.png>
-Package pdftex.def Info: hcmut.png  used on input line 636.
+Package pdftex.def Info: hcmut.png  used on input line 624.
 (pdftex.def)             Requested size: 22.76204pt x 22.75928pt.
 [12] (./template.aux)
 Package rerunfilecheck Info: File `template.out' has not changed.
@@ -994,13 +994,13 @@ Package rerunfilecheck Info: File `template.out' has not changed.
 Here is how much of TeX's memory you used:
  26309 strings out of 478599
  491457 string characters out of 5858100
- 825565 words of memory out of 5000000
+ 825566 words of memory out of 5000000
  43673 multiletter control sequences out of 15000+600000
  408216 words of font info for 48 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  84i,25n,89p,512b,1256s stack positions out of 5000i,500n,10000p,200000b,80000s
 <c:/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb><c:/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb><c:/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb><c:/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb><c:/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi7.pfb><c:/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb><c:/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmr7.pfb><c:/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb><c:/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy7.pfb><c:/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt10.pfb><c:/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt8.pfb>
-Output written on template.pdf (13 pages, 197215 bytes).
+Output written on template.pdf (13 pages, 199266 bytes).
 PDF statistics:
  234 PDF objects out of 1000 (max. 8388607)
  187 compressed objects within 2 object streams
